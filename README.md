@@ -7,7 +7,7 @@
 - [Какие типы CPT существуют?](#какие-типы-cpt-существуют)
 - [Когда начинается OPT Basic?](#когда-начинается-opt-basic)
 - [Что такое Pre-OPT, OPT и Post-OPT?](#что-такое-pre-opt-opt-и-post-opt)
-- [OPT STEM - (Science, Technology, Engineering, Math)](#opt-stem-(science-technology-engineering-math))
+- [OPT STEM - (Science, Technology, Engineering, Math)](#opt-stem-science-technology-engineering-math)
 
 - [Стоит ли делать Premium Processing для OPT?](#стоит-ли-делать-premium-processing-для-opt)
 
@@ -71,7 +71,7 @@ OPT делится на три типа:
 - 2. **OPT** — стандартная возможность работать после завершения учебной программы. Студенты могут работать до 12 месяцев.
 - 3. **Post-OPT** — работа, которую студент выполняет после завершения учебной программы. Этот этап продолжается до 12 месяцев (или 24 месяца для студентов STEM-специальностей).
 
-### OPT STEM - (Science, Technology, Engineering, Math)
+### OPT STEM-Science, Technology, Engineering, Math
 
 [How to Apply for OPT STEM (OPT X)???](https://uh.edu/oisss/resources/files/optx-presentation-nov21.pdf)
 
