@@ -7,7 +7,8 @@
 - [Какие типы CPT существуют?](#какие-типы-cpt-существуют)
 - [Когда начинается OPT Basic?](#когда-начинается-opt-basic)
 - [Что такое Pre-OPT, OPT и Post-OPT?](#что-такое-pre-opt-opt-и-post-opt)
-- [OPT STEM - (Science, Technology, Engineering, Math)](https://www.uscis.gov/working-in-the-united-states/temporary-workers/optional-practical-training-opt)
+- [OPT STEM - (Science, Technology, Engineering, Math)](#opt-stem-science-technology-engineering-math)
+
 - [Стоит ли делать Premium Processing для OPT?](#стоит-ли-делать-premium-processing-для-opt)
 
 
