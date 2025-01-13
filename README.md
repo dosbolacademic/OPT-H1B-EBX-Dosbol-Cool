@@ -11,7 +11,7 @@
 - [Что такое H-1B и H-1B-exempt?](#что-такое-h-1b-и-h-1b-exempt)
 
 - [Employment Based GREEN CARDS: EB-1, EB-2, EB-2 NIW, EB-3, EB-4 и EB-5](#Employment-Based-GREEN-CARDS-EB-1-EB-2-EB-2-NIW-EB-3-EB-4-EB-5)
-
+- [Employment Based GREEN CARDS](#employment-based-green-cards-eb-1-eb-2-eb-2-niw-eb-3-eb-4-и-eb-5)
 - [Как найти спонсируемых работодателей в США, чтобы они могли спонсировать вашу грин-карту](#Как-найти-спонсируемых-работодателей-в-США-чтобы-они-могли-спонсировать-ваш-грин-карту)
 
 ## Что такое CPT?
