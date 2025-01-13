@@ -13,8 +13,7 @@
 
 
 - [Что такое H-1B и H-1B-exempt?](#что-такое-h-1b-и-h-1b-exempt)
-- [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)
-- [Понимание данных H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)
+- [Понимание данных H-1B Employer Data Hub](#H-1B-Employer-Data-Hub)
 - [Employment Based GREEN CARDS: EB-1, EB-2, EB-2 NIW, EB-3, EB-4 и EB-5](#employment-based-green-cards-eb-1-eb-2-eb-2-niw-eb-3-eb-4-и-eb-5)
 - [Как найти спонсируемых работодателей в США, чтобы они могли спонсировать вашу грин-карту](#как-найти-спонсируемых-работодателей-в-сша-чтобы-они-могли-спонсировать-вашу-грин-карту)
 - [Как продлить визу F-1, не возвращаясь на родину?](#как-продлить-визу-f-1-не-возвращаясь-на-родину)
