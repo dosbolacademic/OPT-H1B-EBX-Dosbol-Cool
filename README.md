@@ -60,7 +60,7 @@
 
 
 ## Что такое Pre-OPT, OPT и Post-OPT?
-- (Вернуться наверх  ) [#Добро пожаловать]
+- [Вернуться наверх  ](#Добро пожаловать)
 
 [How to Apply for OPT Basic (pre-OPT, OPT, Post-OPT)???](https://www.uh.edu/oisss/opt-details/additional_information/opt_presentation_slides/opt-workshop-v5.pdf)
 
