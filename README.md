@@ -87,9 +87,9 @@ OPT делится на три типа:
 - 3. **Post-OPT** — работа, которую студент выполняет после завершения учебной программы. Этот этап продолжается до 12 месяцев (или 24 месяца для студентов STEM-специальностей).
 
 ### OPT STEM-Science, Technology, Engineering, Math
--[Вернуться наверх](#Добро-пожаловать)
+- [Вернуться наверх](#Добро-пожаловать)
 
-[How to Apply for OPT STEM (OPT X)???](https://uh.edu/oisss/resources/files/optx-presentation-nov21.pdf)
+- [How to Apply for OPT STEM (OPT X)???](https://uh.edu/oisss/resources/files/optx-presentation-nov21.pdf)
 
 OPT STEM — это расширенная версия OPT для студентов, которые обучались по специальности в области науки, технологий, инженерии или математики (STEM). Она имеет несколько важных ограничений и требований:
 
