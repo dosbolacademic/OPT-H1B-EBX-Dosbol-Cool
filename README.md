@@ -1,4 +1,4 @@
-[1. Software Engineer Skills Guide]([https://github.com/dosbolacademic/OPT-H1B-EBX-F-1](https://github.com/dosbolacademic/Software-Engineer-Skills-Guide/))
+[1. Software Engineer Skills Guide](https://github.com/dosbolacademic/Software-Engineer-Skills-Guide/)
 
 # Документация по иммиграционным вопросам для студентов F-1
 
