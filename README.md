@@ -1,3 +1,5 @@
+[1. Software Engineer Skills Guide]([https://github.com/dosbolacademic/OPT-H1B-EBX-F-1](https://github.com/dosbolacademic/Software-Engineer-Skills-Guide/))
+
 # Документация по иммиграционным вопросам для студентов F-1
 
 Этот репозиторий содержит информацию о различных типах виз и разрешений на работу для студентов в США, а также разъяснения по таким понятиям, как CPT, OPT и H-1B.
